@@ -1,0 +1,24 @@
+{
+  "name": "getting-started-with-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahadfarooq10/getting-started-with-react.git"
+  },
+  "author": "Mahad Farooq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mahadfarooq10/getting-started-with-react/issues"
+  },
+  "homepage": "https://github.com/Mahadfarooq10/getting-started-with-react#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
