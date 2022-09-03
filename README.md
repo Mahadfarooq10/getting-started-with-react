@@ -1,3 +1,3 @@
 # getting-started-with-react
-Exploring React.js
+Exploring React.js,
 Learning the basics of React.js
